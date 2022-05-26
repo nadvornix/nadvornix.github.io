@@ -4,6 +4,7 @@
 
 layout: home
 title: Jiri's Notes
+
 ---
 Some thoughts:
 - [Recommendation how to watch videos](/videos)
